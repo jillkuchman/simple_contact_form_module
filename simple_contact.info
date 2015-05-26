@@ -1,0 +1,4 @@
+name = Simple Contact Form
+description = Displays a simple contact form
+package = Custom
+core = 7.x
